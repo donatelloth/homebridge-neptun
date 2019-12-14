@@ -1,20 +1,26 @@
 {
-    "name": "homebridge-neptun",
-    "version": "0.0.1",
-    "description": "Neptun plugin",
-    "license": "ISC",
-    "keywords": [
-      "homebridge-plugin"
-    ],
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/donatelloth/homebridge-neptun.git"
-    },
-    "bugs": {
-      "url": "https://github.com/donatelloth/homebridge-neptun/issues"
-    },
-    "engines": {
-      "node": ">=0.12.0",
-      "homebridge": ">=0.2.0"
-    }
-  }
+  "name": "homebridge-neptun",
+  "version": "0.0.1",
+  "description": "Neptun plugin",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/donatelloth/homebridge-neptun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/donatelloth/homebridge-neptun/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "homepage": "https://github.com/donatelloth/homebridge-neptun#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "donatelloth"
+}
