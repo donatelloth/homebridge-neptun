@@ -7,7 +7,7 @@ Only 1 valve is available now.
 Example config:
 ```
       {
-          "accessory": "homebridge-neptun",
+          "accessory": "homebridge-neptun.Neptun",
           "name": "Some name",
           "username": "test@gmail.com",
           "password": "your_password"
