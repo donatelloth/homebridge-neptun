@@ -206,6 +206,7 @@ NeptunAccessory.prototype.setState = function(state, callback) {
       callback(err);
     }
   }.bind(this));
+}
 
 NeptunAccessory.prototype.getServices = function() {
   return [this.service];
