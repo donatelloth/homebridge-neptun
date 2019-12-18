@@ -299,7 +299,7 @@ NeptunAccessory.prototype.setState = function(state, callback) {
                         neptunState = "closed"
                       }
                       //var neptunState = "closed"
-                      this.log("Set state to %s", neptunState, Characteristic.Active.UNSECURED);
+                      this.log("Set state to %s", neptunState);
                       var json = JSON.parse(body);
                       for (i=0; i<json.length; i++) {
                         if (json[i].type == 2) {
@@ -316,6 +316,10 @@ NeptunAccessory.prototype.setState = function(state, callback) {
 
                                 if (!err && response.statusCode == 200) {
                                   this.log("State change processing to %s", neptunState);
+                                  var currentState = state
+                                  //this.service.setCharacteristic(Characteristic.Active, currentState);
+                                  this.service.setCharacteristic(Characteristic.InUse, currentState);
+                                  callback(null); // success
                                 }
                                 else {
                                   this.log("Error '%s' setting lock state. Response: %s", err, body);
