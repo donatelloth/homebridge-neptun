@@ -1,8 +1,12 @@
 # homebridge-neptun
 
-www.indahomekit.ru
+[indahomekit.ru](www.indahomekit.ru)
 
-Only 1 valve is available now.
+Only one house and only valve are available now.
+
+### Promo-coode for [NeptunSale.ru](https://neptunsale.ru) is INDAHOMEKIT
+
+### Donations - [here](https://donate.stream/indahomekit)
 
 Example config:
 ```
