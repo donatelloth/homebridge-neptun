@@ -6,7 +6,7 @@
 
 **Our site** - [wwww.indahomekit.ru](www.indahomekit.ru)
 
-**Promo-code** for [NeptunSale.ru](https://neptunsale.ru) is **INDAHOMEKIT**
+**Promo-code** for [NeptunSale.ru](https://neptunsale.ru) is **INDAHOMEKIT** — 15% discount
 
 **Donations** - [here](https://donate.stream/indahomekit)
 
@@ -25,7 +25,7 @@ Example configuration for config.json:
 
 **Наш сайт** - [wwww.indahomekit.ru](www.indahomekit.ru)
 
-**Промо-код** для [NeptunSale.ru](https://neptunsale.ru) — **INDAHOMEKIT**
+**Промо-код** для [NeptunSale.ru](https://neptunsale.ru) — **INDAHOMEKIT** — 15% скидка
 
 **Донаты** - [здесь](https://donate.stream/indahomekit)
 
