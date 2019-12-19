@@ -1,8 +1,8 @@
 # homebridge-neptun
 
-## English
-
 ![neptun](https://www.indahomekit.ru/wp-content/uploads/2019/12/neptunsale.jpg)
+
+## English
 
 **Our site** - [wwww.indahomekit.ru](www.indahomekit.ru)
 
@@ -22,8 +22,6 @@ Example configuration for config.json:
       }
 ```
 ## Русский
-
-![Нептун](https://www.indahomekit.ru/wp-content/uploads/2019/12/neptunsale.jpg)
 
 **Наш сайт** - [wwww.indahomekit.ru](www.indahomekit.ru)
 
