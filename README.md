@@ -12,6 +12,11 @@
 
 Only one house and only valve are available now.
 
+### Installing
+```
+sudo nmp install homebridge-neptun -g
+```
+
 Example configuration for config.json:
 ```
       {
