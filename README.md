@@ -36,6 +36,11 @@ Example configuration for config.json:
 
 Доступен только один дом и только краны.
 
+### Установка
+```
+sudo nmp install homebridge-neptun -g
+```
+
 Пример конфигурации config.json:
 ```
       {
